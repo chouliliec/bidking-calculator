@@ -19,3 +19,12 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Env / local config
+.env
+.env.*
+*.local
+
+# Logs
+*.log
+
